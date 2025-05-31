@@ -1,0 +1,9 @@
+[24-May-2025 16:42:33 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/chatlify/treddur.k3.studio/search.php:451
+Stack trace:
+#0 {main}
+  thrown in /home/chatlify/treddur.k3.studio/search.php on line 451
+[24-May-2025 16:43:22 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/chatlify/treddur.k3.studio/search.php:451
+Stack trace:
+#0 {main}
+  thrown in /home/chatlify/treddur.k3.studio/search.php on line 451
+[24-May-2025 16:44:22 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/chatlify/treddur.k3.studio/search.php on line 188

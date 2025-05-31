@@ -1,0 +1,10 @@
+[09-May-2025 12:31:05 UTC] PHP Warning:  Array to string conversion in /home/chatlify/treddur.k3.studio/api/simpletire.php on line 40
+[09-May-2025 12:31:44 UTC] PHP Warning:  Undefined array key "productList" in /home/chatlify/treddur.k3.studio/api/simpletire.php on line 40
+[09-May-2025 12:33:45 UTC] PHP Warning:  Undefined variable $offerPrice in /home/chatlify/treddur.k3.studio/api/simpletire.php on line 48
+[09-May-2025 12:33:45 UTC] PHP Warning:  Undefined variable $discount in /home/chatlify/treddur.k3.studio/api/simpletire.php on line 49
+[09-May-2025 12:33:45 UTC] PHP Warning:  Undefined variable $images in /home/chatlify/treddur.k3.studio/api/simpletire.php on line 50
+[09-May-2025 12:33:45 UTC] PHP Fatal error:  Uncaught TypeError: array_filter(): Argument #1 ($array) must be of type array, null given in /home/chatlify/treddur.k3.studio/api/simpletire.php:50
+Stack trace:
+#0 /home/chatlify/treddur.k3.studio/api/simpletire.php(50): array_filter()
+#1 {main}
+  thrown in /home/chatlify/treddur.k3.studio/api/simpletire.php on line 50
